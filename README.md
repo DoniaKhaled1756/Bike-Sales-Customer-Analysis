@@ -20,6 +20,11 @@ The project focuses on:
 - State-level transaction performance
 
 ---
+## 📊 Dashboard Preview
+
+![Bike Sales Dashboard](Dashboard.png)
+
+---
 
 ## 🎯 Project Objectives
 
